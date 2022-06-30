@@ -1,0 +1,12 @@
+{
+  "name": "tema1_ejercicio1",
+  "version": "1.0.0",
+  "description": "Ejercicio 1 del tema 1 del curso de JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "saludar": "node HolaMundo.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alejandro Saez",
+  "license": "ISC"
+}
