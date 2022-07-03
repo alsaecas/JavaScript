@@ -6,5 +6,5 @@ let estudianteMinus=estudiante.toLowerCase();
 let nLetras=estudiante.length;
 let primeraLetra=nombre.slice(0,1);
 let ultimaLetra=apellidos.slice(apellidos.length-1,apellidos.length);
-let sinEspacios=estudiante.replaceAll(' ','')
-let aparece=estudiante.includes(nombre)
+let sinEspacios=estudiante.replaceAll(' ','');
+let aparece=estudiante.includes(nombre);
