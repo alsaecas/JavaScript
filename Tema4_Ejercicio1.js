@@ -1,0 +1,10 @@
+nombre='Alejandro';
+apellidos='Saez Castells';
+estudiante=nombre + ' ' + apellidos;
+estudianteMayus=estudiante.toUpperCase();
+estudianteMinus=estudiante.toLowerCase();
+nLetras=estudiante.length;
+primeraLetra=nombre.slice(0,1);
+ultimaLetra=apellidos.slice(apellidos.length-1,apellidos.length);
+sinEspacios=estudiante.replaceAll(' ','')
+aparece=estudiante.includes(nombre)
