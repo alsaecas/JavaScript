@@ -1,0 +1,16 @@
+{
+  "name": "tema9_ejercicio1",
+  "version": "1.0.0",
+  "description": "Ejercicio 1 del tema 10 del curso de JavaScript",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Alejandro Saez",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.1"
+  }
+}
