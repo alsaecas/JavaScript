@@ -4,7 +4,8 @@
   "description": "Ejercicio 1 del tema 13 del curso de JavaScript",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "lint" : "eslint ."
   },
   "keywords": [],
   "author": "Alejandro Saez",
