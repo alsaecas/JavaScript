@@ -1,0 +1,12 @@
+{
+  "name": "tema14_ejercicio1",
+  "version": "1.0.0",
+  "description": "Ejercicio 1 del tema 15 del curso de JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server ."
+  },
+  "keywords": [],
+  "author": "Alejandro Saez",
+  "license": "ISC"
+}
