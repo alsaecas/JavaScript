@@ -1,0 +1,15 @@
+{
+  "name": "tema13_ejercicio1",
+  "version": "1.0.0",
+  "description": "Ejercicio 1 del tema 13 del curso de JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Alejandro Saez",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.19.0"
+  }
+}
